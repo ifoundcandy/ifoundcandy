@@ -1,6 +1,6 @@
 # ʚ diary of an angelic soul ✧ ̊
 
-Oioi!! bem vindo (a) ao meu perfil ! Meu nome é Shelly Cristina
+Oioi!! Bem vindo (a) ao meu perfil ! Meu nome é Shelly Cristina
 
 - Estou estudando na Alura..
 - Estou me desenvolvendo na linguagem JavaScript.
